@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.display_first {
+	background: url(../img/background.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.logo {
+	margin-left: 10%;
+	padding-top: 30px;
+}
+
+.images_title {
+	max-width: 400px;
+	float: right;
+	position: relative;
+}
+
+.ph_1 {
+	padding-left: -1450px;
+}
