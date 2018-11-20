@@ -14,12 +14,16 @@ body{
 	padding-top: 30px;
 }
 
-.images_title {
+.images_title img{
 	max-width: 400px;
 	float: right;
 	position: relative;
 }
 
 .ph_1 {
-	padding-left: -1450px;
+	left: -120px; top: 55px;
+}
+
+.ph_2 {
+	bottom: -70px;
 }
